@@ -1,7 +1,7 @@
-<p align="center"  width="400">
-   <img align:"center" width="300"  src="https://imgur.com/a/1Ays3wH" />
+<div align="center">
+   <img align="center" src="https://i.imgur.com/1Ays3wH.png" />
    <h3 align="center">¡Hola 👋! Soy Leandro Magallanes </h3>
-</p>
+</div>
 
 <p align="center">Soy <strong> Desarrollador Front-End </strong><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
