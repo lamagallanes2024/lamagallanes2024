@@ -1,5 +1,5 @@
 <div align="center">
-   <img align="center" src="https://i.imgur.com/1Ays3wH.png" />
+   <img align="center" src="https://imgur.com/a/EcPSHQA" />
    <h3 align="center">¡Hola 👋! Soy Leandro Magallanes </h3>
 </div>
 
