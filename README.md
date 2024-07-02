@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center"  width="400">
+   <img align:"center" width="300"  src="https://user-images.githubusercontent.com/86386723/201491954-d03af10c-93cb-4978-a12d-14bd5fbf6383.png" />
+   <h3 align="center">¡Hola 👋! Soy Leandro Magallanes </h3>
+</p>
 
-<!--
-**lamagallanes2024/lamagallanes2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Soy <strong> Desarrollador Front-End </strong><br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+  <a href="https://instagram.com/leanmaga08" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ---
+
+ 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamagallanes2024&show_icons=true&&bg_color=DEG,090979,020024,090979&title_color=f1f1f1&text_color=f1f1f1)](https://github.com/lamagallanes2024/github-readme-stats)
