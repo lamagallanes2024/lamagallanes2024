@@ -1,5 +1,5 @@
 <p align="center"  width="400">
-   <img align:"center" width="300"  src="https://user-images.githubusercontent.com/86386723/201491954-d03af10c-93cb-4978-a12d-14bd5fbf6383.png" />
+   <img align:"center" width="300"  src="https://imgur.com/a/1Ays3wH" />
    <h3 align="center">¡Hola 👋! Soy Leandro Magallanes </h3>
 </p>
 
