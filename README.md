@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Leandro Magallanes </h3>
 </div>
 
-<p align="center">Soy <strong> Desarrollador Front-End </strong><br />¡Revisa mi contenido 👇!</p>
+<p align="center"><strong> Desarrollador Front-End </strong><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
   <a href="https://instagram.com/leanmaga08" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
